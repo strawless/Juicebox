@@ -1,0 +1,9 @@
+sources:
+- mutable:
+    plugs:
+    - mutable1:
+        alias: "Juicebox"
+        mac: 70:AC:00:00:00:00
+        power: 0
+
+
